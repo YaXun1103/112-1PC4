@@ -19,7 +19,7 @@
 ```
 git clone
 ```
-
+依照投影片範例，利用@keyframes做出閃爍效果
 ```html
 <!DOCTYPE html>
 <html lang="en">
