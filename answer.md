@@ -69,4 +69,10 @@ git commit
 git push
 ```
 ## 個人認為完成作業須具備觀念
+1.基本的 Git 操作：例如 fork 別人的倉庫、clone倉庫到本地、add、commit、push 。<br />
+2.HTML 結構：了解 HTML 標籤的運用，瞭解如何建立基本的網頁結構。<br />
+3.CSS 動畫效果：學會使用 CSS 中的 @keyframes 規則，理解動畫效果的基本運作原理，在這次的作業中，我使用了 opacity 屬性，使元素在動畫進行的過程中產生閃爍效果。
+
+
+
 
